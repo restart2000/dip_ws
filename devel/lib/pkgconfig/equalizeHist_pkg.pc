@@ -1,0 +1,8 @@
+prefix=/home/zhang/dip_ws/devel
+
+Name: equalizeHist_pkg
+Description: Description of equalizeHist_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zhang/dip_ws/devel/lib 
+Requires: 
